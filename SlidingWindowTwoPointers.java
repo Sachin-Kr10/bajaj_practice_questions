@@ -3,7 +3,7 @@ import java.util.HashMap;
 public class SlidingWindowTwoPointers {
     public static void main(String[] args) {
 
-        String s = "aabac";
+        String s = "aahjgjhbajhgjfjgfjc";
         int k = 2;
 
         int left = 0;
